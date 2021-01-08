@@ -1,0 +1,2 @@
+# rara
+static web page
